@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RegistrationForm" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue_accent</item>
+        <item name = "colorPrimaryVariant">@color/blue_dark</item>
+        <item name = "android:fontFamily">sans-serif-light</item>
+    </style>
+
+    <style name="Theme.RegistrationForm" parent="Base.Theme.RegistrationForm" />
+</resources>
